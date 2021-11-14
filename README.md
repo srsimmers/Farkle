@@ -1,2 +1,2 @@
 # Farkle
-Farkle dice game
+Farkle dice game created in c++
